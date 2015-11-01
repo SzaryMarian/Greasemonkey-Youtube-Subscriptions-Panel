@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        YTSubPanel
+// @name        YT Subscriptions Panel
 // @description Change view of Youtube subscriptions panel
 // @author      SzaryMarian
 // @copyright   2015, SzaryMarian
