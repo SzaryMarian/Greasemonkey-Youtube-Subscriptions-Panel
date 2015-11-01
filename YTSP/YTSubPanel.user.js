@@ -10,11 +10,7 @@
 // @grant       none
 // ==/UserScript==
 
-
-// test 11
-
-window.addEventListener('load', function(){
-  
+window.addEventListener('load', function(){  
   var css=function(){
     var css=
         'div#m-cont{position:absolute; z-index:1000; min-height:20px; background:#fff; overflow:hidden;}'+
