@@ -3,6 +3,7 @@
 // @description Change view of Youtube subscriptions panel
 // @author      SzaryMarian
 // @copyright   2015, SzaryMarian
+// @license     (CC); http://creativecommons.org/licenses/by-nc-sa/3.0/
 // @namespace   .
 // @include     https://www.youtube.com/*
 // @version     1.0
