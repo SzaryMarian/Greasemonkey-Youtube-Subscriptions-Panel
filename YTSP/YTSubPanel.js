@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name        YTSubPanel
+// @description Change view of Youtube subscriptions panel
+// @copyright   2015, SzaryMarian
 // @namespace   .
 // @include     https://www.youtube.com/*
 // @version     1.0.1
 // @grant       none
-// @description Change view of Youtube subscriptions panel
 // @downloadURL https://gist.githubusercontent.com/SzaryMarian/52bbd9e57e93e1299046/raw/5fb74fb7b9a4506eb8633f4213252dfad7699b4a/YTSubsPanel.js
 // ==/UserScript==
 
