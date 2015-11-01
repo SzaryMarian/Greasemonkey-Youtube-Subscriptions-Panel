@@ -1,4 +1,4 @@
-// ==UserScript==
+﻿// ==UserScript==
 // @name        YT Subscriptions Panel
 // @description Change view of Youtube subscriptions panel
 // @author      SzaryMarian
